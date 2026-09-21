@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# omgevingen
+.venv/
+venv/
+env/
+
+# editors
+.vscode/
+.idea/
+.DS_Store
+
+# geheimen - nooit, echt nooit
+.env
+*.key
+credentials.json

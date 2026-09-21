@@ -1,0 +1,13 @@
+order_id,customer,country,product,quantity,unit_price_cents
+1001,ACME,NL,desk,1,24900
+1002,Globex,BE,chair,4,11950
+1003,ACME,NL,lamp,2,3495
+1004,Initech,,desk,1,24900
+1005,Globex,BE,chair,,11950
+1006,Hooli,DE,monitor,2,19900
+1007,ACME,NL,desk,3,24900
+1008,Initech,FR,lamp,1,3495
+1009,Hooli,DE,chair,2,11950
+1010,Globex,BE,desk,1,twelve thousand
+1011,ACME,NL,monitor,1,19900
+1012,Hooli,DE,lamp,5,3495
